@@ -1,4 +1,4 @@
-DROP DATABASE `restaurantes`;
+DROP DATABASE IF EXISTS `restaurantes`;
 CREATE DATABASE `restaurantes`;
 USE `restaurantes` ;
 
